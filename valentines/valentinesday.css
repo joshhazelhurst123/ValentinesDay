@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Courgette);
+@import url(https://fonts.googleapis.com/css?family=TimesNewRoman);
 
 body
 {
   text-align:center;
-  font-family: 'Courgette', cursive;
+  font-family: 'TimesNewRoman';
   color: Red;
   background-color: grey;
 }
